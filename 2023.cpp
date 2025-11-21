@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("1111");
+	printf("nihao");
 	return 0;
 }
